@@ -1,0 +1,139 @@
+/* header sextion */
+ *{
+     margin: 0;
+     padding: 0;
+ }
+#text-penguin-color, #text-winter-color{
+    color: #fabe4c;
+    font-weight: 700;
+    font-size: 45px;
+}
+#text-winter-color{
+    color: #363958;
+}
+.btn-color{
+    background-color: #96af31;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.nav-container {
+    background-color: #fffbf0;
+    margin-bottom: 100px;
+  }
+ .nav-logo img {
+    height: 45px;
+    width: 280px;
+  }
+  #nav-text-color {
+    color: black;
+  }
+   
+.penguin .img-cart {
+    width: 20px;
+    height: 20px;
+  }
+.penguin .img-girl {
+    width: 412px;
+    height: 397px;
+  }
+
+/* header section close */
+
+ 
+
+/* main part start */
+
+/* women jacket */
+
+.cat1, .cat2, .cate3 {
+    padding: 5px 5px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.logo-image img{
+    width: 15%;
+    margin-left: 40px;
+}
+.logo-text{
+    margin-left: 40px;
+
+}
+.logo-right img{
+    width: 100%;
+}
+.logo-h4-color{
+     color: #363958;
+     font-weight: 700;
+}
+.logo-p-color{
+    color: balck;
+    font-weight: 500;
+}
+.women-jacket-yellow img{
+    width: 80%;
+}
+
+.women-jacket-darkyellow img{
+    width: 60%;
+}
+
+.women-jacket-red img{    
+    width: 65%;
+}
+.women-jacket-yellow ,.women-jacket-darkyellow , .women-jacket-red{
+    background-color: slategray;
+    margin: 2%;
+    padding: 5%;
+    border-radius: 5%;
+} 
+
+
+.jacket-finishing{
+    border: none;
+}
+
+.footer-bgcolor{
+    background-color: white;
+    border: none;
+}
+
+/* women jacket close */
+
+
+/* man jacket start */
+
+.man-jacket-yellow img{
+
+    width: 65%;
+}
+
+.man-jacket-red img{
+    width: 82%;
+}
+
+.man-jacket-black img{
+    width: 59%;
+}
+
+.man-jacket-yellow, .man-jacket-red, .man-jacket-black{
+
+    background-color: slategray;
+    margin: 2%;
+    padding: 10%;
+    border-radius: 5%;
+}
+
+/* man jacket close */
+
+
+
+
+
+
+
+  
+  
